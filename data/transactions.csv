@@ -4,3 +4,5 @@ date,type,amount,description
 2024-07-22,expense,20,Transport
 2024-07-20,income,2000,salary
 2024-07-20,expense,1000,Movie
+2024-07-22,income,1000,salary
+2024-07-22,2,500,grocery
