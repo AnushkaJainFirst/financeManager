@@ -41,16 +41,16 @@ Personal Finance Manager is a Python application designed to help users manage t
 
 2. **Interact with the application**:
 
-    ### Add a Transaction:
+    **Add a Transaction**:
     Select option 1 to add a new transaction. You will be prompted to enter the transaction type (income/expense), amount, and description.
 
-    ### View Transactions:
+    **View Transactions**:
     Select option 2 to view all transactions. The list of transactions will be displayed in the terminal.
 
-    ### Analyze Spending:
+    **Analyze Spending**:
     Select option 3 to analyze spending. A spending analysis will be displayed, showing insights into your financial habits.
 
-    ### Exit the application:
+    **Exit the application**:
     Select option 4 to exit the application.
 
 ## Files
