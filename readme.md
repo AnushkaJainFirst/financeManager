@@ -30,6 +30,7 @@ Personal Finance Manager is a Python application designed to help users manage t
     source venv\Scripts\activate
 
 3. **Install the required packages**:
+    ```bash
     pip install pandas matplotlib
 
 ## Usage
